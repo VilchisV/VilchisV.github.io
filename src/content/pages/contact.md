@@ -11,7 +11,11 @@ Correo electrónico:
 
 Escríbeme a manuelvilchislopez7@gmail.com
 
-[LinkedIn]: www.linkedin.com/in/VilchisV
+[LinkedIn]: 
 
-[GitHub](https://github.com/VilchisV): https://github.com/VilchisV
+www.linkedin.com/in/VilchisV
+
+[GitHub](https://github.com/VilchisV): 
+
+https://github.com/VilchisV
 
