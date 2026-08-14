@@ -8,7 +8,7 @@ seo:
     alt: Project preview
 ---
 
-![Project preview](../../assets/imagess/imagen.png)
+![Project preview](../../assets/images/imagen.png)
 
 ### Objetivos
 - Plataforma de monitoreo para la Planta de Tratamiento de Aguas Residuales 
