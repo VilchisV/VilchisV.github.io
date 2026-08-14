@@ -4,7 +4,7 @@ description: "Django · Python · SQLite"
 publishDate: 'Febrero 01 2025'
 seo:
   image:
-    src: '../../assets/imagess/imagen.png'
+    src: '../../assets/images/imagen.png'
     alt: Project preview
 ---
 
