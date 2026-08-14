@@ -3,7 +3,7 @@ import hero from '../assets/images/hero.jpg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
+    website: '',
     avatar: {
         src: avatar,
         alt: 'Ethan Donovan'
@@ -37,14 +37,7 @@ const siteConfig: SiteConfig = {
 
     ],
     socialLinks: [
-        {
-            text: 'LinkendIn',
-            href: 'www.linkedin.com/in/victor-manuel-vilchis-lopez-32115a356'
-        },
-        {
-            text: 'Github',
-            href: 'www.github.com/VilchisV'
-        },
+
     ],
     hero: {
         title: '¡Desarrollador enfocado en Frontend y base de datos!',
