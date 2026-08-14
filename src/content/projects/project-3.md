@@ -4,11 +4,11 @@ description: "Django · Python · SQLite"
 publishDate: 'Febrero 01 2025'
 seo:
   image:
-    src: '../../assets/imagess/imagen.png'
+    src: '../../assets/images/imagen.png'
     alt: Project preview
 ---
 
-![Project preview](../../assets/imagess/imagen.png)
+![Project preview](../../assets/images/imagen.png)
 
 ### Objetivos
 - Plataforma de monitoreo para la Planta de Tratamiento de Aguas Residuales 
