@@ -10,51 +10,40 @@ const siteConfig: SiteConfig = {
     },
     title: 'Vilchis López Victor Manuel',
     subtitle: 'Blog Personal👨‍💻',
-    description: 'Desarrollador enfocado en Frontend y base de datos',
+    description: '',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '',
+        alt: ''
     },
     headerNavLinks: [
         {
-            text: 'Home',
+            text: 'Acerca de mí',
             href: '/'
         },
         {
-            text: 'Projects',
-            href: '/projects'
+            text: 'Proyectos',
+            href: '/proyectos'
         },
-        {
-            text: 'Blog',
-            href: '/blog'
-        },
-        {
-            text: 'Github',
-            href: 'https://github.com/VilchisV'
-        }
     ],
     footerNavLinks: [
         {
-            text: 'About',
-            href: '/about'
+            text: 'Contacto',
+            href: '/contacto'
         },
-        {
-            text: 'Contact',
-            href: '/contact'
-        },
-        {
-            text: 'Terms',
-            href: '/terms'
-        }
+
     ],
     socialLinks: [
         {
             text: 'LinkendIn',
             href: 'www.linkedin.com/in/victor-manuel-vilchis-lopez-32115a356'
         },
+        {
+            text: 'Github',
+            href: 'www.github.com/VilchisV'
+        },
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
+        title: '¡Desarrollador enfocado en Frontend y base de datos!',
         text: "Egresado de Matemáticas Aplicadas y Computación (FES Acatlán, UNAM). Construyo sistemas backend en Python/Django, con bases sólidas en bases de datos relacionales, Docker y control de versiones — llevando tres proyectos web de idea a producción.",
         image: {
             src: hero,
@@ -63,7 +52,7 @@ const siteConfig: SiteConfig = {
         actions: [
             {
                 text: 'Get in Touch',
-                href: '/contact'
+                href: '/contacto'
             }
         ]
     },
