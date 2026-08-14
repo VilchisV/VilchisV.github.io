@@ -1,16 +1,21 @@
 ---
-title: 'Página Web PTAR — FES Acatlán'
-description: "Django · Python · SQLite"
-publishDate: 'Febrero 01 2025'
+title: 'Gestion de Optica "CAPYCODE"'
+description: "Diseño e implementación de un sistema de gestión para una óptica en Streamlit (Python), enfocado en el control de inventario, gestión de clientes, historial de ventas y organización de información administrativa con interfaz interactiva."
+publishDate: 'Noviembre 01 2024'
 seo:
   image:
-    src: '../../assets/images/imagen.png'
+    src: '../../assets/images/proyecto2.png'
     alt: Project preview
 ---
 
-![Project preview](../../assets/images/imagen.png)
+![Project preview](../../assets/images/proyecto2.png)
 
 ### Objetivos
-- Plataforma de monitoreo para la Planta de Tratamiento de Aguas Residuales 
-- Gráficas dinámicas y descarga de reportes en CSV
-- Sistema de autenticación de usuarios integrado
+- Autenticación con inicio y creación de sesión de usuarios
+- Agendamiento de citas con calendario interactivo
+- Registro y seguimiento de ventas
+
+### Herramientas
+- Python
+- Streamlit
+- SQLite

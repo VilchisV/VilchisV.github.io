@@ -17,18 +17,22 @@ const siteConfig: SiteConfig = {
     },
     headerNavLinks: [
         {
-            text: 'Acerca de mí',
+            text: 'Quien soy',
             href: '/'
         },
         {
             text: 'Proyectos',
-            href: '/proyectos'
+            href: '/projects'
+        },
+        {
+            text: 'Sobre mí',
+            href: '/about'
         },
     ],
     footerNavLinks: [
         {
             text: 'Contacto',
-            href: '/contacto'
+            href: '/contact'
         },
 
     ],
@@ -47,19 +51,19 @@ const siteConfig: SiteConfig = {
         text: "Egresado de Matemáticas Aplicadas y Computación (FES Acatlán, UNAM). Construyo sistemas backend en Python/Django, con bases sólidas en bases de datos relacionales, Docker y control de versiones — llevando tres proyectos web de idea a producción.",
         image: {
             src: hero,
-            alt: 'A person sitting at a desk in front of a computer'
+            alt: ''
         },
         actions: [
             {
-                text: 'Get in Touch',
-                href: '/contacto'
+                text: 'Contactame',
+                href: '/contact'
             }
         ]
     },
     subscribe: {
         enabled: true,
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
+        title: '',
+        text: '',
         form: {
             action: '#'
         }

@@ -1,7 +1,7 @@
 ---
-title: 'Página Web PTAR — FES Acatlán'
-description: "Django · Python · SQLite"
-publishDate: 'Febrero 01 2025'
+title: 'Calculadora de Métodos Numéricos'
+description: "Diseño e implementación de una aplicación en Streamlit (Python) para la ejecución de métodos numéricos con entradas dinámicas"
+publishDate: '05/01/2024'
 seo:
   image:
     src: '../../assets/images/imagen.png'
@@ -11,6 +11,11 @@ seo:
 ![Project preview](../../assets/images/imagen.png)
 
 ### Objetivos
-- Plataforma de monitoreo para la Planta de Tratamiento de Aguas Residuales 
-- Gráficas dinámicas y descarga de reportes en CSV
-- Sistema de autenticación de usuarios integrado
+- Resolucion de metodos como Newton-Raphson, Punto Fijo, entre otros métodos
+- Entrada de funciones en tiempo real
+- Visualización de iteraciones paso a paso
+
+### Herramientas
+- Python
+- Streamlit
+- SQLite
