@@ -10,6 +10,8 @@ seo:
 
 ![Project preview](../../assets/images/proyecto2.png)
 
+Codigo: https://github.com/VilchisV/Proyecto
+
 ### Objetivos
 - Autenticación con inicio y creación de sesión de usuarios
 - Agendamiento de citas con calendario interactivo

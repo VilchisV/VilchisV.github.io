@@ -10,6 +10,8 @@ seo:
 
 ![Project preview](../../assets/images/imagen.png)
 
+Codigo: https://github.com/AaMRosas/metodos
+
 ### Objetivos
 - Resolucion de metodos como Newton-Raphson, Punto Fijo, entre otros métodos
 - Entrada de funciones en tiempo real
